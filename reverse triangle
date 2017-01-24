@@ -1,0 +1,16 @@
+#include <stdio.h>
+
+main (){
+	int i,j,num;
+	printf("input num: ");
+	scanf("%d", &num);
+	for (i=0
+	; i<num ; i++){
+		for (j=i; j<num ; j++){
+		printf("*");
+		
+}
+		printf("\n");
+		
+}
+}
